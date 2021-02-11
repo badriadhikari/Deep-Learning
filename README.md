@@ -82,14 +82,14 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
       - Project: None
 
 1. **02/18**
-   - Meeting topics: QnA
+   - No class meeting scheduled
    - Due next week:
       - Concept map homework: Module 5 (Preparing Images)
       - Quiz: Module 5
       - Project: None
 
 1. **02/25**
-   - Meeting topics: QnA
+   - No class meeting scheduled
    - Due next week:
       - Concept map homework: Module 6 (The Convolution Operation)
       - Quiz: Module 6
