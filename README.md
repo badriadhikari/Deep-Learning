@@ -82,18 +82,84 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
       - Project: None
 
 1. **02/18**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Module 5 (Preparing Images)
       - Quiz: Module 5
       - Project: None
 
 1. **02/25**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Module 6 (The Convolution Operation)
       - Quiz: Module 6
       - Project: Phase I Report
+
+1. **03/04**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: Module 7
+      - Quiz: Module 7
+      - Project: None
+
+1. **03/11**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: Module 8
+      - Quiz: Module 8
+      - Project: Phase II (Build an overfitting model)
+
+1. **03/18**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: Module 9
+      - Quiz: Module 9
+      - Project: None
+
+1. **03/25**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: None
+      - Quiz: None
+      - Project: None
+
+1. **04/01**
+   - Spring break
+
+1. **04/08**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: Module 10
+      - Quiz: Module 10
+      - Project: Phase III (Split and evaluate on test set)
+
+1. **04/15**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: Module 11
+      - Quiz: Module 11
+      - Project: Phase IV (Effects of augmentation)
+
+1. **04/22**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: None
+      - Quiz: None
+      - Project: Phase V (Effects of regularization)
+      
+1. **04/29**
+   - No class meeting scheduled (but may be scheduled based on request)
+   - Due next week:
+      - Concept map homework: None
+      - Quiz: None
+      - Project: Phase VI (Use pretrained models)
+   
+1. **05/06**
+   - Final project report submission opens
+
+1. **05/13**
+   - Final project report submission closes
+
 
 ## 9. Academic dishonesty
 Any form of academic dishonesty in this class will result in an F for the semester and the case will be referred to the provost's office for possible further disciplinary action, regardless of how trivial it is. Please don't use another student's assignment (or a solution in the internet) to complete your own assignment. Discussing the material is 'OK', but please do your work on your own. You should complete the homework alone, not together, and not in a group. If you have any questions about any of the lessons or the assignments, please contact me, and I will point you in the right direction. Please read [UMSL's policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html) and keep yourself out of plagiarism. Also, please remember that our `turnitin` tool also automatically checks for plagiarism.
