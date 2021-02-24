@@ -10,6 +10,7 @@
 1. Practice Python at [codewars.org](https://www.codewars.com/)
 1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
 1. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
+1. [Install Tensorflow in your local macine](https://www.youtube.com/watch?v=hHWkvEcDBO0&t)
 
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
 1. [Difference between AI, ML, and DL](https://youtu.be/kd62-4_jNoA)
