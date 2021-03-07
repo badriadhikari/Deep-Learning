@@ -85,9 +85,12 @@
 1. [How to debug a deep learning development pipeline?](https://youtu.be/cwvqche_eCY)
 
 ## 9. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
+<!--
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
+-->
 
 ## 10. Deep learning practices (Sections 4.3, 5.3, 5.4, and 7.1) 
+<!--
 1. [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
 1. [Feature engineering] - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 1. [Multi-input and Multi-output models]
@@ -96,7 +99,7 @@
 1. Transfer learning - [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
 1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
 1. [Techniques for interpreting a deep learning model]
-
+-->
 **Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
 ## 11. Limitations of deep learning (Section 9.2)
