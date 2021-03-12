@@ -75,7 +75,7 @@ Below is the list of all phases and the outline of what you will be working on i
 ## Phase III. Split and evaluate on test set
 1. Watch the lecture in [Module 4](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#4-introduction-to-keras-sections-32-and-33).
 2. Practice [this notebook](./notebooks/MNIST_using_ImageDataGenerator.ipynb). It demonstrates how to train a model by loading data from ImageDataGenerators.
-3. Split your data into training, development, and test set
+3. Randomly split your data into training, development, and test set, i.e., put the images in three separate folders (for example, see `mnist_png.tar.gz` in the `data` folder)
 4. Train your model using the training set, 'Earlystop' using the validation set, and evaluate on the test set. Hint: The trick is to create three sets of folders -- training, validation, and testing -- and then create three separate data generators.
 5. Study the performance when the number of filters and layers are increased/changed
 6. Plot your learning curves and include them in your report
