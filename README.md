@@ -107,20 +107,20 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
    - Due next week:
       - Concept map homework: Module 8
       - Quiz: Module 8
-      - Project: Phase II (Build an overfitting model)
+      - Project: None
 
 1. **03/18**
    - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
-      - Concept map homework: Module 9
-      - Quiz: Module 9
-      - Project: None
+      - Concept map homework: None
+      - Quiz: None
+      - Project: Phase II (Build an overfitting model)
 
 1. **03/25**
    - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
-      - Concept map homework: None
-      - Quiz: None
+      - Concept map homework: Module 9
+      - Quiz: Module 9
       - Project: None
 
 1. **04/01**
