@@ -118,9 +118,9 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
 1. **03/25**
    - No class meeting scheduled (but may be scheduled based on request)
-   - Due next week:
-      - Concept map homework: Module 9
-      - Quiz: Module 9
+   - Due next week (the Spring break week):
+      - Concept map homework: None
+      - Quiz: None
       - Project: None
 
 1. **04/01**
@@ -129,22 +129,22 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 1. **04/08**
    - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
-      - Concept map homework: Module 10
-      - Quiz: Module 10
+      - Concept map homework: Module 9
+      - Quiz: Module 9
       - Project: Phase III (Split and evaluate on test set)
 
 1. **04/15**
    - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
-      - Concept map homework: Module 11
-      - Quiz: Module 11
+      - Concept map homework: Module 10
+      - Quiz: Module 10
       - Project: Phase IV (Effects of augmentation)
 
 1. **04/22**
    - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
-      - Concept map homework: None
-      - Quiz: None
+      - Concept map homework: Module 11
+      - Quiz:  Module 11
       - Project: Phase V (Effects of regularization)
       
 1. **04/29**
@@ -158,7 +158,7 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
    - Final project report submission opens
 
 1. **05/13**
-   - Final project report submission closes
+   - Final project report submission
 
 
 ## 9. Academic dishonesty
