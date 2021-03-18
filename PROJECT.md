@@ -63,12 +63,14 @@ Below is the list of all phases and the outline of what you will be working on i
    If you are using data generators, you can do something like the following to obtain your `xtrain` and `ytrain_original`:
    ```python
    # Empty placeholders for 1000 RGB images and their labels
-   mydatax = np.zeros(1000, 256, 256, 3)
+   mydatax = np.zeros(1000, 256, 256, 3 + 1) # One additional channel for labels
    mydatay = np.zeros(1000, 1)
    # Read everything from your generator
    for i in range(1000):
       x, y = your_generator()
-      mydatax[i] = x
+      # if y is one-hot encoded, you may need to convert y to a single value
+      mydatax[i, :, :, :3 ] = x # Existing image in the first three channels
+      mydatax[i, :, :, 3 ] = y.reshape(256, 256, 1) # Label value as the last channel
       mydatay[i] = y
    ```
 
