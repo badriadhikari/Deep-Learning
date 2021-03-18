@@ -45,7 +45,7 @@ Below is the list of all phases and the outline of what you will be working on i
    ```
 1. In your report you should discuss how the performance (accuracy, precision, recall, etc.) changes when the number of filters and layers are increased/decreased?
 1. Plot your learning curves and include them in your report
-1. [ONLY FOR GRADUATE STUDENTS] If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
+1. [OPTIONAL] If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
    ```python
    # Example of how to use output labels as additional input channel
    import numpy as np
