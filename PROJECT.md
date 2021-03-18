@@ -65,7 +65,7 @@ Below is the list of all phases and the outline of what you will be working on i
    # Empty placeholders for 1000 RGB images and their labels
    mydatax = np.zeros(1000, 256, 256, 3 + 1) # One additional channel for labels
    mydatay = np.zeros(1000, 1)
-   # Read everything from your generator
+   # Read everything from your generator, and fill up the mydatax/mydatay arrays
    for i in range(1000):
       x, y = your_generator()
       # if y is one-hot encoded, you may need to convert y to a single value
