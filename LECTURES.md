@@ -2,9 +2,10 @@
 
 ## 1. Introduction to Python and Numpy
 1. [How to use Google Colab for Python programming?](https://www.youtube.com/watch?v=PVsS9WtwVB8)
-2. [Python3](https://youtube.com/watch?v=V42qfAPybp8) / [notebook](notebooks/python.ipynb)
-3. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY) / [notebook](notebooks/numpy.ipynb)
-4. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) / [notebook](notebooks/matplotlib_plotly.ipynb) 
+    Please note that I do not recommend upgrading to the Google Colab Pro (paid) version. All students who have paid for the "pro" version have shared that it is no better than the "free" version.  
+1. [Python3](https://youtube.com/watch?v=V42qfAPybp8) / [notebook](notebooks/python.ipynb)
+1. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY) / [notebook](notebooks/numpy.ipynb)
+1. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) / [notebook](notebooks/matplotlib_plotly.ipynb) 
 
 **Optional:**
 1. Practice Python at [codewars.org](https://www.codewars.com/)
