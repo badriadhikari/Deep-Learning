@@ -87,9 +87,10 @@
 ## 9. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
 <!--
 1. [LeNet-5, AlexNet, and VGG-16 (17 min watch)](https://www.coursera.org/lecture/convolutional-neural-networks/classic-networks-MmYe2) (including the 'Advanced' content)
-    This lecture is **excluded** for the module quiz (but should be **included** in your concept map)
-1. Using LeNext-5 and VGG-16 (in Keras)
-1. 
+    Note: This lecture is **excluded** for the module quiz but the contents should be **included** in your concept map.
+1. Training your own LeNet-5 
+2. Using VGG-16 (in Keras)
+3. 
 
 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
