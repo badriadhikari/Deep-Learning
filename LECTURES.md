@@ -114,7 +114,7 @@
 1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
 1. [Techniques for interpreting a deep learning model]
 -->
-**Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
+**Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/) [Note: This must be included in your concept map]
 
 ## 11. Limitations of deep learning (Section 9.2)
 1. [Goals of deep learning](https://youtu.be/HJ1RX0jowhM)
