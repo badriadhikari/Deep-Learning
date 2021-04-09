@@ -92,7 +92,7 @@
 1. [Using VGG-16 (in Keras)](https://youtu.be/41d_yuANkb4) / [notebook](./notebooks/Using_VGG16.ipynb) 
 1. [Effect of architecture depth on learning](https://youtu.be/4KEojbSJy4Y) / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb)
 1. A) [Residual networks]
-1. [Training very deep models with ResNet] / [notebook](./notebooks/Training_using_residual_connections.ipynb)
+1. [Training very deep models with ResNet](https://youtu.be/SnkcHjH5tjI) / [notebook](./notebooks/Training_using_residual_connections.ipynb)
 1. B) [Why do residual networks work?]
 1. C) [The purpose of "1 by 1" convolutions]
 3. Some state-of-the-art deep learning architectures for computer vision problems (Note: The following lectures are **excluded** for the module quiz but the contents should be **included** in your concept map.):
