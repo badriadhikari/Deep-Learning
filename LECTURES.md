@@ -120,7 +120,7 @@
 ## 11. Potential and Limitations of deep learning (Section 9.2)
 1. [Goals of deep learning](https://youtu.be/HJ1RX0jowhM)
 1. [Limitations of deep learning](https://youtu.be/X5PQEEwCeKg)
-2. Read: [One of biology's biggest mysteries 'largely solved' by AI](https://www.bbc.com/news/science-environment-55133972)
+2. Read: [One of biology's biggest mysteries 'largely solved' by AI](https://www.bbc.com/news/science-environment-55133972) ([Note: This must be included in your concept map])
 
 **Optional:** Resources for implementing the backpropagation algorithm:
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
