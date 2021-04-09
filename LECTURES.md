@@ -85,21 +85,20 @@
 1. [How to debug a deep learning development pipeline?](https://youtu.be/cwvqche_eCY)
 
 ## 9. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
-1. [LeNet-5, AlexNet, and VGG-16 (17 min watch)](https://www.coursera.org/lecture/convolutional-neural-networks/classic-networks-MmYe2) (including the 'Advanced' content)
+1. [LeNet-5, AlexNet, and VGG-16 (17 min watch)](https://www.coursera.org/lecture/convolutional-neural-networks/classic-networks-MmYe2) (including the 'Advanced' content)  
     Note: This lecture is **excluded** for the module quiz but the contents should be **included** in your concept map.
 1. [Training your own LeNet-5](https://youtu.be/zwSXSltRhh0) / [notebook](./notebooks/LeNet.ipynb)
 1. [Using VGG-16 (in Keras)](https://youtu.be/41d_yuANkb4) / [notebook](./notebooks/Using_VGG16.ipynb) 
 1. [Effect of architecture depth on learning](https://youtu.be/4KEojbSJy4Y) / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb)
 1. [Residual networks](https://youtu.be/Ndy58bK-E1o)
 1. [Training very deep models with ResNet](https://youtu.be/SnkcHjH5tjI) / [notebook](./notebooks/Training_using_residual_connections.ipynb)
-1. B) [Why do residual networks work?]()
+1. [Why do residual networks work?](https://youtu.be/jIz8Xw4v9DI)
 1. [The purpose of "1 by 1" convolutions](https://youtu.be/W4BrS66HnNQ)
-1. Some state-of-the-art deep learning architectures for computer vision problems (Note: The following lectures are **excluded** for the module quiz but the contents should be **included** in your concept map.):
+1. Some state-of-the-art deep learning architectures for computer vision problems (Note: The following lectures are **excluded** for the module quiz but the contents should be **included** in your concept map.):  
     - [Inception network](https://www.coursera.org/lecture/convolutional-neural-networks/inception-network-piR0x)
     - [DenseNet](https://youtu.be/-W6y8xnd--U)
     - [NASNet](https://youtu.be/sROrvtXnT7Q)
 1. [How to choose a pretrained model?](https://youtu.be/oHgRkbuy7EI)
-
 
 ## 10. Deep learning practices (Sections 4.3, 5.3, 5.4, and 7.1) 
 <!--
