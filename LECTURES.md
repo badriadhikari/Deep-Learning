@@ -88,10 +88,17 @@
 <!--
 1. [LeNet-5, AlexNet, and VGG-16 (17 min watch)](https://www.coursera.org/lecture/convolutional-neural-networks/classic-networks-MmYe2) (including the 'Advanced' content)
     Note: This lecture is **excluded** for the module quiz but the contents should be **included** in your concept map.
-1. Training your own LeNet-5 
-2. Using VGG-16 (in Keras)
-3. 
-
+1. [Training your own LeNet-5](https://youtu.be/zwSXSltRhh0) / [notebook]
+1. [Using VGG-16 (in Keras)](https://youtu.be/41d_yuANkb4) / [notebook] 
+1. [Effect of architecture depth on learning] / [notebook]
+1. [Residual networks]
+1. [Residual networks and architecture depth] / [notebook]
+1. [Why do residual networks work?]
+1. Some state-of-the-art deep learning architectures for computer vision problems (Note: The following lectures are **excluded** for the module quiz but the contents should be **included** in your concept map.):
+    - [Inception network](https://www.coursera.org/lecture/convolutional-neural-networks/inception-network-piR0x)
+    - [DenseNet](https://youtu.be/-W6y8xnd--U)
+    - [NASNet](https://youtu.be/sROrvtXnT7Q)
+1. [How to choose pretrained models?]
 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
 -->
