@@ -91,14 +91,15 @@
 1. [Training your own LeNet-5](https://youtu.be/zwSXSltRhh0) / [notebook](./notebooks/LeNet.ipynb)
 1. [Using VGG-16 (in Keras)](https://youtu.be/41d_yuANkb4) / [notebook](./notebooks/Using_VGG16.ipynb) 
 1. [Effect of architecture depth on learning](https://youtu.be/4KEojbSJy4Y) / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb)
-1. [Residual networks]
+1. A) [Residual networks]
 1. [Training very deep models with ResNet] / [notebook](./notebooks/Training_using_residual_connections.ipynb)
-1. [Why do residual networks work?]
-1. Some state-of-the-art deep learning architectures for computer vision problems (Note: The following lectures are **excluded** for the module quiz but the contents should be **included** in your concept map.):
+1. B) [Why do residual networks work?]
+1. C) [The purpose of "1 by 1" convolutions]
+3. Some state-of-the-art deep learning architectures for computer vision problems (Note: The following lectures are **excluded** for the module quiz but the contents should be **included** in your concept map.):
     - [Inception network](https://www.coursera.org/lecture/convolutional-neural-networks/inception-network-piR0x)
     - [DenseNet](https://youtu.be/-W6y8xnd--U)
     - [NASNet](https://youtu.be/sROrvtXnT7Q)
-1. [How to choose pretrained models?]
+4. D) [How to choose pretrained models?]
 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
 -->
