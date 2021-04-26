@@ -122,9 +122,10 @@
 1. [Limitations of deep learning](https://youtu.be/X5PQEEwCeKg)
 2. Reading: [One of biology's biggest mysteries 'largely solved' by AI](https://www.bbc.com/news/science-environment-55133972) ([Note: This must be included in your concept map])
 
+**Optional:** [Andrew Ng: Advice on Getting Started in Deep Learning](https://youtu.be/1k37OcjH7BM)
+
 **Optional:** Resources for implementing the backpropagation algorithm:
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 - [CSE 599G1: Deep Learning System, University of Washington](https://dlsys.cs.washington.edu/pdf/lecture4.pdf) 
 - [Backpropagation, NNets](https://www.youtube.com/watch?v=i94OvYb6noo)
 
-**Optional:** [Andrew Ng: Advice on Getting Started in Deep Learning](https://youtu.be/1k37OcjH7BM)
