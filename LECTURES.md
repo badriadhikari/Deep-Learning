@@ -108,10 +108,14 @@
 1. [Layer weight sharing (The Siamese LSTM)]
 1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
 1. Transfer learning - [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
-1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
 1. [Techniques for interpreting a deep learning model]
 -->
-**Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/) [Note: This must be included in your concept map]
+1. Reading: [Why is deep transfer learnign becoming popular?](https://towardsdatascience.com/what-is-deep-transfer-learning-and-why-is-it-becoming-so-popular-91acdcc2717a)
+2. [What is deep transfer learning?](https://youtu.be/EL6PVZ7mHiE)
+3. [Deep transfer learning - using VGG16 convolutional base](https://youtu.be/2xrzJibPl3c) / [notebook]()
+4. [The future of deep learning hardware (by Yan LeCun)](https://youtu.be/9r2lqrtQXFQ)
+5. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
+6. Reading: [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
 ## 11. Potential and Limitations of deep learning (Section 9.2)
 1. [Goals of deep learning](https://youtu.be/HJ1RX0jowhM)
