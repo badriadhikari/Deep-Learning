@@ -112,7 +112,7 @@
 -->
 1. Reading: [Why is deep transfer learnign becoming popular?](https://towardsdatascience.com/what-is-deep-transfer-learning-and-why-is-it-becoming-so-popular-91acdcc2717a)
 2. [What is deep transfer learning?](https://youtu.be/EL6PVZ7mHiE)
-3. [Deep transfer learning - using VGG16 convolutional base](https://youtu.be/2xrzJibPl3c) / [notebook]()
+3. [Deep transfer learning - using VGG16 convolutional base](https://youtu.be/2xrzJibPl3c) / [notebook](./notebooks/Transfer_learning.ipynb)
 4. [The future of deep learning hardware (by Yan LeCun)](https://youtu.be/9r2lqrtQXFQ)
 5. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
 6. Reading: [Neural Network Follies](https://neil.fraser.name/writing/tank/)
